@@ -7,7 +7,7 @@ Screenshot :
 
 🚀 Live Demo
 🔗 [click here to view live demo](https://waqas979.github.io/BookZone/)
-Example: https://yourusername.github.io/book-recommendation-chatbot
+
 
 💡 Features
 Book recommendations based on genres like:
