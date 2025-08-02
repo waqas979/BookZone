@@ -6,7 +6,7 @@ Screenshot :
 ![image alt](https://github.com/waqas979/BookZone/blob/main/book_zone.png?raw=true)
 
 🚀 Live Demo
-🔗 [Add your live site link here if deployed]
+🔗 [click here to view live demo](https://waqas979.github.io/BookZone/)
 Example: https://yourusername.github.io/book-recommendation-chatbot
 
 💡 Features
